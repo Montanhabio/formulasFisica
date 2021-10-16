@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Velocidade Média",
+        "descriptionFormula": "velocidade distância tempo",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "2",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Velocidade Instantânea",
+        "descriptionFormula": "velocidade distância tempo",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "3",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Função Horária do Deslocamento",
+        "descriptionFormula": "velocidade distância tempo deslocamento movimento uniforme MU",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "4",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Aceleração Média",
+        "descriptionFormula": "velocidade aceleração tempo movimento uniformemente variado MUV",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "5",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Função Horária do Deslocamento",
+        "descriptionFormula": "velocidade distância tempo deslocamento aceleração movimento uniformemente variado MUV",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "6",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Função Horária da Velocidade",
+        "descriptionFormula": "velocidade distância tempo deslocamento aceleração movimento uniformemente variado MUV",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    },
+    {
+        "id": "7",
+        "areaFormula": "Cinemática",
+        "nomeFormula": "Equação de torricceli",
+        "descriptionFormula": "velocidade distância tempo deslocamento aceleração movimento uniformemente variado MUV",
+        "imageFormula": "https://drive.google.com/file/d/1UDpP9GENy8V2otfJgU1L5v1gAMFMS8Oo/view?usp=sharing"
+    }
+]
